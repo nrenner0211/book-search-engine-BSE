@@ -2,14 +2,16 @@
 
 ## Table of Contents
 
+-[BSE](#book-search-engine-bse)
+-[Table Of Contents](#table-of-contents)
 -[About](#about)
 -[Acceptance Criteria](#acceptance-criteria)
--[Link](#links)
--[]
+-[Links](#links)
+-[Contact](#contact)
 
 ## About
 
-A fully functioning Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API built with Apollo Server. The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API. User story below:
+A fully functioning Google Books API search engine built with a RESTful API, refactored to be a GraphQL API built with Apollo Server. The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API. User story below:
 
 `AS AN avid reader`
 
@@ -82,3 +84,10 @@ A fully functioning Google Books API search engine built with a RESTful API, and
 [Starter Code](https://github.com/coding-boot-camp/solid-broccoli)
 
 [Repository](https://github.com/nrenner0211/book-search-engine-BSE)
+
+[Deployed](https://nrenner0211.github.io/book-search-engine-BSE/)
+
+## Contact
+
+[![Linkedin Badge](https://img.shields.io/badge/-nrenner0211-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolette-renner/)](https://www.linkedin.com/in/nicolette-renner/)
+[![Gmail Badge](https://img.shields.io/badge/-nrenner0211@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nrenner0211@gmail.com)](mailto:nrenner0211@gmail.com)
