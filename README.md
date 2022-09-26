@@ -1,14 +1,5 @@
 # book-search-engine-BSE
 
-## Table of Contents
-
--[BSE](#book-search-engine-bse)
--[Table Of Contents](#table-of-contents)
--[About](#about)
--[Acceptance Criteria](#acceptance-criteria)
--[Links](#links)
--[Contact](#contact)
-
 ## About
 
 A fully functioning Google Books API search engine built with a RESTful API, refactored to be a GraphQL API built with Apollo Server. The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API. User story below:
